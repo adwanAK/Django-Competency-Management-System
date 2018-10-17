@@ -9,15 +9,15 @@
     - Risk
     - Procurement
     - Stakeholders
-
-1. <h2> Initiation: Project Charter:</h2>
+<h2>
+1.  Initiation: Project Charter:</h2>
     The project team will produce an accurte yet efficent performance and learning management system.
     CMS system will be made as generic as possible to serve different situations.
     Team of developers will be lead by project manager and developer Adwan.
     When needed, project will refelct needs of Saudi Railway Company SAR.
     4 weeks
-
-2. <h2> Scop Managment Plan:</h2>
+<h2>
+2.  Scop Managment Plan:</h2>
     <h4>2.1 Define Scope (requirements):</h4> <ul>
         <li> Project is small to medium software size so we do not expect much deviation from original defined scope.</li> Project must include model & db, views control code, html templates and javascript for better UI/UX.</li>
         Solid back end and basic front end pages can do the job, however, user-friendly front end is also required.</li>
@@ -54,8 +54,8 @@
             <li> [Activity 042] Assign real users and conduct training for the staff selected</li>
             <li> [Activity 043] Receive feedback and impliment fix and improvements</li>
             <li> [Activity 044] Full Launch!</li></ul>
-
-3. <h2> Time Management Plan</h2>
+<h2>
+3.  Time Management Plan</h2>
     Following activities duration in hours:<ul>
        <h5>Design work-packages:</h5>
             <li> [Activity 001] 2</li>
@@ -80,20 +80,20 @@
             <li> [Activity 041] 3</li>
             <li> [Activity 042] 3</li>
             <li> [Activity 043] 10</li> </ul>
-
-4. <h2> Cost Management Plan</h2>
+<h2>
+4.  Cost Management Plan</h2>
     Cost managment is omitted here due to using available resources "free" of charge.
-
-5. <h2> Quality Management Plan</h2>
+<h2>
+5.  Quality Management Plan</h2>
     Quality ensured by continous bug fix and adherence to requirements. The goal is to have solid system and go beyond expectations in phase 4 when time allowed.
     Django testing will be explored in early stage (week1) to see possibility of using it without slowing actual project work.
-
-6. <h2> Human Resources Management Plan</h2>
+<h2>
+6.  Human Resources Management Plan</h2>
 Work packages team: As of now, it will be done by one developer who will work as part time job (Adwan).
     Consultants: Martin, Caden.
     Equipment: Laptop, Internet and hosting (AWS).
-
-7. <h2> Communications Management Plan </h2>
+<h2>
+7.  Communications Management Plan </h2>
 N(N-1)/2 – Formula for Number of Communication Channels required where N is number of stakeholders. Communication is critical to project success. Team will conduct weekly video conference call and 2 voice conference. In addition, team memebers should use slack as the official mean of communications. Whatsapp is used when only when necessary.
 PM Adwan will handle communications outside the project team. Communications with stakeholders will be explained throughly in Stakeholder management plan.
 
