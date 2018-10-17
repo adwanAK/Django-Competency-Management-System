@@ -14,7 +14,7 @@
     The project team will produce an accurte yet efficent performance and learning management system.
     CMS system will be made as generic as possible to serve different situations.
     Team of developers will be lead by project manager and developer Adwan.
-    When needed, project will refelct needs of Saudi Railway Company SAR.
+    When needed, project will refelct needs of the Railway Company.
     4 weeks
 <h2>
 2.  Scop Managment Plan:</h2>
@@ -94,7 +94,19 @@ Work packages team: As of now, it will be done by one developer who will work as
     Equipment: Laptop, Internet and hosting (AWS).
 <h2>
 7.  Communications Management Plan </h2>
-N(N-1)/2 – Formula for Number of Communication Channels required where N is number of stakeholders. Communication is critical to project success. Team will conduct weekly video conference call and 2 voice conference. In addition, team memebers should use slack as the official mean of communications. Whatsapp is used when only when necessary.
-PM Adwan will handle communications outside the project team. Communications with stakeholders will be explained throughly in Stakeholder management plan.
+    N(N-1)/2 – Formula for Number of Communication Channels required where N is number of stakeholders. Communication is critical to project success. Team will conduct weekly video conference call and 2 voice conference. In addition, team memebers should use slack as the official mean of communications. Whatsapp is used when only when necessary.
+    PM Adwan will handle communications outside the project team. Communications with stakeholders will be explained throughly in Stakeholder management plan.
+<h2>
+8.  Risk Management Plan </h2>
+    Risk register and coresponding mitigation plan will be created and developed on the first team meeting week 0.
+
+ <h2>
+9.  Procurement Management Plan </h2>
+    Most resources used are based on open source technologies. AWS hosting will be used until soft launch. For official launch, the Railway Company will provide resources such as AWS or internal company hosting. Any procurement will likely be covered by the company.
+
+ <h2>
+10. Stakeholders Management Plan </h2>
+    Stakeholders epecially key people from the company will be identified and added to stakeholders register. The register will contain critical information to dealing with individuals. Stakeholder will be analyzed to find best communication method and areas of interests. Certain stakeholders may show resistance to CMS implimentation who we have to negotiate with and manage closely. On the other hand, we will benefit from upporters from within the company when needed. 
+
 
 <h1>...TBC</h1>
