@@ -1,4 +1,4 @@
-<h1> Comptency Management System : Project Management Plan Draft: </h1>
+<h1> Comptency Management System : Project Management Plan: </h1>
     - Initiation (Project Charter)
     - Scope
     - Time
@@ -57,26 +57,26 @@
 <h2>
 3.  Time Management Plan</h2>
     Following activities duration in hours:<ul>
-       <h5>Design work-packages:</h5>
+       <h5>Week 0: Design work-packages:</h5>
             <li> [Activity 001] 2</li>
             <li> [Activity 002] 3</li>
             <li> [Activity 003] 3</li>
-        <h5>Phase 1 work-packges:</h5>
+        <h5>Week 1 Phase 1 work-packges:</h5>
             <li> [Activity 011] 5</li>
             <li> [Activity 012] 4</li>
             <li> [Activity 013] 5</li>
-        <h5>Phase 2 work-packages:</h5>
+        <h5>Week 2 Phase 2 work-packages:</h5>
             <li> [Activity 021] 2</li>
             <li> [Activity 022] 3</li>
             <li> [Activity 023] 5</li>
             <li> [Activity 024] 3</li>
             <li> [Activity 025] 5</li>
-        <h5>Phase 3 work-packages:</h5>
+        <h5>Week 3 Phase 3 work-packages:</h5>
             <li> [Activity 031] 2</li>
             <li> [Activity 032] 10</li>
             <li> [Activity 033] 2</li>
             <li> [Activity 034] 4</li>
-        <h5>Phase 4 work-packages:</h5>
+        <h5>Week 4 Phase 4 work-packages:</h5>
             <li> [Activity 041] 3</li>
             <li> [Activity 042] 3</li>
             <li> [Activity 043] 10</li> </ul>
