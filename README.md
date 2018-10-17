@@ -10,7 +10,7 @@
     - Procurement
     - Stakeholders
 
-1. <h2> Initilization: Project Charter:</h2>
+1. <h2> Initiation: Project Charter:</h2>
     The project team will produce an accurte yet efficent performance and learning management system.
     CMS system will be made as generic as possible to serve different situations.
     Team of developers will be lead by project manager and developer Adwan.
