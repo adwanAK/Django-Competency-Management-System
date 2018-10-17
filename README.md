@@ -28,7 +28,7 @@
         <li> Each team or teams work in one location with unique location id. i.e. Joanic Station. Other teams will be assigned for other location ID i.e. Trinita Nova station.</li>
         <li> Technologies used: Python Django, MySQL, CSS, and Javascript.</li>
         <li> Branding and identity must follow company profile.</li> </ul>
-    <h3>2.2 Work breakdown structure WBS.</h3>
+    <h4>2.2 Work breakdown structure WBS.</h4>
         Following activities and plans may are based on Define Scop. Before getting into this point, it is very critial that requirements are well defined and committed.<ul>
         <h5>Design work-packages:</h5>
             <li> [Activity 001] Set up tools to be used and allocate resources such as github, Lucidchart</li>
@@ -81,7 +81,7 @@
             <li> [Activity 042] 3</li>
             <li> [Activity 043] 10</li> </ul>
 
-4. <h2> Cost Management Plan
+4. <h2> Cost Management Plan</h2>
     Cost managment is omitted due to using available resources free of charge for the duration of development.
 
 5. <h2> Quality Management Plan</h2>
