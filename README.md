@@ -18,7 +18,7 @@
     4 weeks
 
 2. <h2> Scop Managment Plan:</h2>
-    <h3>2.1 Define Scope (requirements):</h3> <ul>
+    <h4>2.1 Define Scope (requirements):</h4> <ul>
         <li> Project is small to medium software size so we do not expect much deviation from original defined scope.</li> Project must include model & db, views control code, html templates and javascript for better UI/UX.</li>
         Solid back end and basic front end pages can do the job, however, user-friendly front end is also required.</li>
         <li> A user will log in with his coporate identity, checks the list of tasks of the day (can do check all button).</li>
@@ -29,57 +29,57 @@
         <li> Technologies used: Python Django, MySQL, CSS, and Javascript.</li>
         <li> Branding and identity must follow company profile.</li> </ul>
     <h3>2.2 Work breakdown structure WBS.</h3>
-        Following activities and plans may are based on Define Scop. Before getting into this point, it is very critial that requirements are well defined and committed.
-        *Design work-packages:
-            - [Activity 001] Set up tools to be used and allocate resources such as github, Lucidchart
-            - [Activity 002] Web page design and sketching [home, memeber profile, supervisor profile, admin page]
-            - [Activity 003] Develop user scenarios and use cases/UML design and model relationships.
-        *Phase 1 work-packges:
-            - [Activity 011] Create User accounts app: pages and forms
-            - [Activity 012] Tune up registeration, login log out and add necessary attributes.
-            - [Activity 013] Testing and phase 1 release (user accounts management)
-        *Phase 2 work-packages:
-            - [Activity 021] Create main app models [task, knowledge area, daily_performance] User SMART for task
-            - [Activity 022] Tune up relationships and add necessary attributes
-            - [Activity 023] Integrate/Impliment relationship between User models and main app models
-            - [Activity 024] Create forms and basic pages
-            - [Activity 025] Testing phase 2 and release
-        *Phase 3 work-packages:
-            - [Activity 031] Update user scenarios and use cases
-            - [Activity 032] Create final front end side and add javscript when needed
-            - [Activity 033] Meet with other departments such as marketing for coporate identity and final look
-            - [Activity 034] Impliment coporate identity, logo, colors and test.
-        *Phase 4 work-packages:
-            - [Activity 041] Prepare beta version and deploy for soft launch on hosting
-            - [Activity 042] Assign real users and conduct training for the staff selected
-            - [Activity 043] Receive feedback and impliment fix and improvements
-            - [Activity 044] Full Launch!
+        Following activities and plans may are based on Define Scop. Before getting into this point, it is very critial that requirements are well defined and committed.<ul>
+        <h5>Design work-packages:</h5>
+            <li> [Activity 001] Set up tools to be used and allocate resources such as github, Lucidchart</li>
+            <li> [Activity 002] Web page design and sketching [home, memeber profile, supervisor profile, admin page]</li>
+            <li> [Activity 003] Develop user scenarios and use cases/UML design and model relationships.</li>
+        <h5>Phase 1 work-packges:</h5>
+            <li> [Activity 011] Create User accounts app: pages and forms</li>
+            <li> [Activity 012] Tune up registeration, login log out and add necessary attributes.</li>
+            <li> [Activity 013] Testing and phase 1 release (user accounts management)</li>
+        <h5>Phase 2 work-packages:</h5>
+            <li> [Activity 021] Create main app models [task, knowledge area, daily_performance] User SMART for task</li>
+            <li> [Activity 022] Tune up relationships and add necessary attributes</li>
+            <li> [Activity 023] Integrate/Impliment relationship between User models and main app models</li>
+            <li> [Activity 024] Create forms and basic pages</li>
+            <li> [Activity 025] Testing phase 2 and release</li>
+        <h5>Phase 3 work-packages:</h5>
+            <li> [Activity 031] Update user scenarios and use cases
+            <li> [Activity 032] Create final front end side and add javscript when needed</li>
+            <li> [Activity 033] Meet with other departments such as marketing for coporate identity and final look</li>
+            <li> [Activity 034] Impliment coporate identity, logo, colors and test.</li>
+        <h5>Phase 4 work-packages:</h5>
+            <li> [Activity 041] Prepare beta version and deploy for soft launch on hosting</li>
+            <li> [Activity 042] Assign real users and conduct training for the staff selected</li>
+            <li> [Activity 043] Receive feedback and impliment fix and improvements</li>
+            <li> [Activity 044] Full Launch!</li></ul>
 
 3. <h2> Time Management Plan</h2>
-    Following activities duration in hours:
-        *Design work-packages:
-            - [Activity 001] 2
-            - [Activity 002] 3
-            - [Activity 003] 3
-        *Phase 1 work-packges:
-            - [Activity 011] 5
-            - [Activity 012] 4
-            - [Activity 013] 5
-        *Phase 2 work-packages:
-            - [Activity 021] 2
-            - [Activity 022] 3
-            - [Activity 023] 5
-            - [Activity 024] 3
-            - [Activity 025] 5
-        *Phase 3 work-packages:
-            - [Activity 031] 2
-            - [Activity 032] 10
-            - [Activity 033] 2
-            - [Activity 034] 4
-        *Phase 4 work-packages:
-            - [Activity 041] 3
-            - [Activity 042] 3
-            - [Activity 043] 10
+    Following activities duration in hours:<ul>
+       <h5>Design work-packages:</h5>
+            <li> [Activity 001] 2</li>
+            <li> [Activity 002] 3</li>
+            <li> [Activity 003] 3</li>
+        <h5>Phase 1 work-packges:</h5>
+            <li> [Activity 011] 5</li>
+            <li> [Activity 012] 4</li>
+            <li> [Activity 013] 5</li>
+        <h5>Phase 2 work-packages:</h5>
+            <li> [Activity 021] 2</li>
+            <li> [Activity 022] 3</li>
+            <li> [Activity 023] 5</li>
+            <li> [Activity 024] 3</li>
+            <li> [Activity 025] 5</li>
+        <h5>Phase 3 work-packages:</h5>
+            <li> [Activity 031] 2</li>
+            <li> [Activity 032] 10</li>
+            <li> [Activity 033] 2</li>
+            <li> [Activity 034] 4</li>
+        <h5>Phase 4 work-packages:</h5>
+            <li> [Activity 041] 3</li>
+            <li> [Activity 042] 3</li>
+            <li> [Activity 043] 10</li> </ul>
 
 4. <h2> Cost Management Plan
     Cost managment is omitted due to using available resources free of charge for the duration of development.
