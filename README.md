@@ -82,7 +82,7 @@
             <li> [Activity 043] 10</li> </ul>
 
 4. <h2> Cost Management Plan</h2>
-    Cost managment is omitted due to using available resources free of charge for the duration of development.
+    Cost managment is omitted here due to using available resources "free" of charge.
 
 5. <h2> Quality Management Plan</h2>
     Quality ensured by continous bug fix and adherence to requirements. The goal is to have solid system and go beyond expectations in phase 4 when time allowed.
@@ -90,7 +90,7 @@
 
 6. <h2> Human Resources Management Plan</h2>
 Work packages team: As of now, it will be done by one developer who will work as part time job (Adwan).
-    Consultants: Martin, Caden from CodingNomads!
+    Consultants: Martin, Caden.
     Equipment: Laptop, Internet and hosting (AWS).
 
 7. <h2> Communications Management Plan </h2>
