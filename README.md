@@ -107,11 +107,3 @@ Work packages team: As of now, it will be done by one developer who will work as
  <h2>
 10. Stakeholders Management Plan </h2>
     Stakeholders epecially key people from the company will be identified and added to stakeholders register. The register will contain critical information to dealing with individuals. Stakeholder will be analyzed to find best communication method and areas of interests. Certain stakeholders may show resistance to CMS implimentation who we have to negotiate with and manage closely. On the other hand, we will benefit from upporters from within the company when needed. 
-
-
-+ hello
-+ lkj
-
-
-* lkjlsdkjf
-* lkjlkj 
