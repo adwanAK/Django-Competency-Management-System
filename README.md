@@ -1,4 +1,4 @@
-<h1> Comptency Management System : Project Management Plan: </h1>
+<h1> Competency Management System : Project Management Plan: </h1>
     - Initiation (Project Charter)
     - Scope
     - Time
